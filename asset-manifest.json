@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vote/static/css/main.47cfbae1.css",
+    "main.js": "/vote/static/js/main.53ea3b64.js",
+    "static/media/thankyou.png": "/vote/static/media/thankyou.cc0a8a0f0402caeedb54.png",
+    "static/media/eVote.jpg": "/vote/static/media/eVote.4ed86d0981f279e95998.jpg",
+    "index.html": "/vote/index.html",
+    "main.47cfbae1.css.map": "/vote/static/css/main.47cfbae1.css.map",
+    "main.53ea3b64.js.map": "/vote/static/js/main.53ea3b64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47cfbae1.css",
+    "static/js/main.53ea3b64.js"
+  ]
+}
