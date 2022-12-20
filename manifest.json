@@ -1,6 +1,6 @@
 {
-  "short_name": "dVote Admin Panel",
-  "name": "Decentralized voting application admin panel",
+  "short_name": "dVote",
+  "name": "Decentralzied voting application",
   "icons": [
     {
       "src": "favicon.ico",
